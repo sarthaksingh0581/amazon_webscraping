@@ -61,7 +61,7 @@ This project is intended strictly for personal and educational use. Please ensur
 ## Author
 
 **Sarthak Singh**  
-Python Developer | Data Automation Enthusiast  
+Python Developer | Data Automation Enthusiast | Data Analyst
 [LinkedIn Profile](https://www.linkedin.com/in/sarthak-singh-4a2738358/)  
 Email alerts powered by Python and SMTP automation
 
